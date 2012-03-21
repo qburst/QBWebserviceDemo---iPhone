@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIAuthenticationDialog.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIHTTPRequestDelegate.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/chatterfly/!svn/ver/313/trunk/Chatterfly/Classes/Generic/ASIHTTPRequest/ASIDownloadCache.h
+END
